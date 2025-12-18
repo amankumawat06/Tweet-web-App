@@ -19,17 +19,17 @@ let posts = [
     id: uuidv4(),
     username: "amankumawat",
     content:
-      "I am a BCA final year student and currently i am working on my final year project",
+      "I have completed my backhlore in computer Application from Apex university. Currently I am working as a Full stack developer Intern ar webMobi360.",
   },
   {
     id: uuidv4(),
     username: "nikhilsharma",
-    content: "This men is working on AdMediaX",
+    content: "Hii, I'm Founder of AdMediaX",
   },
   {
     id: uuidv4(),
     username: "codingHeist",
-    content: "Here you can see all coding doubts and their solution",
+    content: "Thanks for visiting my web page",
   },
 ];
 
