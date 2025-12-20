@@ -19,7 +19,7 @@ let posts = [
     id: uuidv4(),
     username: "amankumawat",
     content:
-      "I have completed my backhlore in computer Application from Apex university. Currently I am working as a Full stack developer Intern ar webMobi360.",
+      "I have completed my bachelor's in computer Application from Apex university. Currently I am working as a Full stack developer Intern ar webMobi360.",
   },
   {
     id: uuidv4(),
